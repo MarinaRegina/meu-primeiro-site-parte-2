@@ -1,0 +1,38 @@
+html, body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 90%;
+}
+h1{
+    background-color: rgb(248, 164, 210);
+    padding: 1rem;
+    column-span: all;
+}
+h2{
+    background-color: rgb(248, 164, 210); 
+    padding: 1rem;
+    column-span: all;
+}
+h3{
+    background-color: rgb(248, 164, 210);
+    padding: 1rem;
+    column-span: all;
+}
+body {
+    background-image: url(marca\ d´água.jpg);
+    text-align: center;
+}
+.imgeco {
+    width: auto;
+    padding: 20px;
+    text-align: center;
+}
+.article {
+   column-count: 3; 
+   column-gap: 3rem;
+   column-rule: 5px dashed rosybrown;
+   text-align: center;
+}
+
+
+
+
